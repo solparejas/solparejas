@@ -1,6 +1,6 @@
 # Hola, soy Sol 👋
 
-**Estudiante Avanzado de Ingeniería en Sistemas | Software & Backend Developer**
+**Estudiante Avanzada de Ingeniería en Sistemas | IT Solutions Design & Systems Integration**
 
 Me especializo en diseñar y desarrollar sistemas que resuelven problemas operativos reales. Mi enfoque está en construir arquitecturas escalables, automatizar procesos de infraestructura y crear software que conecte de manera eficiente el backend con las necesidades del negocio.
 
@@ -17,10 +17,10 @@ Me especializo en diseñar y desarrollar sistemas que resuelven problemas operat
 
 ### 🛠️ Tech Stack
 
-*   **Desarrollo Backend:** Python, [Agrega aquí otros lenguajes ej. Java/Node.js], APIs REST.
+*   **Desarrollo Backend:** Python, APIs REST.
 *   **Arquitectura & DevOps:** Docker, CI/CD (GitHub Actions), Arquitectura Orientada a Servicios.
 *   **Redes & Hardware:** Monitoreo de tráfico, auditoría de redes, despliegue de sistemas operativos.
-*   **Bases de Datos:** SQL, [Agrega aquí PostgreSQL/MySQL/MongoDB].
+*   **Bases de Datos:** SQL, PostgreSQL, MySQL.
 
 ---
 
