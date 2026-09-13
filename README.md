@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola, soy Sol 👋
 
-<!--
-**solparejas/solparejas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante Avanzado de Ingeniería en Sistemas | Software & Backend Developer**
 
-Here are some ideas to get you started:
+Me especializo en diseñar y desarrollar sistemas que resuelven problemas operativos reales. Mi enfoque está en construir arquitecturas escalables, automatizar procesos de infraestructura y crear software que conecte de manera eficiente el backend con las necesidades del negocio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **[Visita mi Portafolio Web / Landing Page Aquí](https://nexora-seguridad.framer.ai/)**
+
+---
+
+### 🚀 Proyectos Destacados
+
+*   **[E-Commerce Platform (Arquitectura de Microservicios)](LINK)**
+    Desarrollo integral de una aplicación de comercio electrónico. Evolucionando hacia una arquitectura de contenedores (Docker) para separar servicios críticos como catálogo, gestión de usuarios y carrito de compras, garantizando alta disponibilidad y escalabilidad.
+
+---
+
+### 🛠️ Tech Stack
+
+*   **Desarrollo Backend:** Python, [Agrega aquí otros lenguajes ej. Java/Node.js], APIs REST.
+*   **Arquitectura & DevOps:** Docker, CI/CD (GitHub Actions), Arquitectura Orientada a Servicios.
+*   **Redes & Hardware:** Monitoreo de tráfico, auditoría de redes, despliegue de sistemas operativos.
+*   **Bases de Datos:** SQL, [Agrega aquí PostgreSQL/MySQL/MongoDB].
+
+---
+
+### 📫 Conectemos
+
+*   💼 [LinkedIn](https://www.linkedin.com/in/solparejas/)
+*   📧 [Correo Electrónico](parejassol@gmail.com)
